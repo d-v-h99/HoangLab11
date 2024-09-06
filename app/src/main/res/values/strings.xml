@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HoangLab11</string>
+    <string name="are_you_sure">Are you sure to delete this?</string>
+    <string name="no_contacts">You have no contacts, add some.</string>
+</resources>
